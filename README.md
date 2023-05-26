@@ -14,7 +14,7 @@ Hazirda oyrenirem
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=xasiyevsamir&theme=radical&no-frame=false&no-bg=true&margin-w=1)
+![](https://github-profile-trophy.vercel.app/?username=xasiyevsamir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
