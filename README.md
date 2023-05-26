@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there 👋, I'm Samir Xasiyev
 
 Hazirda oyrenirem
 
